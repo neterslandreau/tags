@@ -1,7 +1,7 @@
 {
     "name": "neterslandreau/tags",
     "type": "cakephp-plugin",
-    "description": "Users Plugin for CakePHP",
+    "description": "Tags Plugin for CakePHP",
     "keywords": ["cakephp","users","auth"],
     "homepage": "http://cakedc.com",
     "license": "MIT",
